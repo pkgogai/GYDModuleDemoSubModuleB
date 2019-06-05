@@ -1,0 +1,6 @@
+framework module GYDModuleDemoInterface {
+  umbrella header "GYDModuleDemoInterface-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "GYDModuleDemoSubModuleB",
+  "version": "0.0.1",
+  "summary": "GYDModuleDemoSubModuleB",
+  "homepage": "https://github.com/pkgogai",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pkgogai": "pkgogai@163.com"
+  },
+  "source": {
+    "git": "git@github.com:pkgogai/GYDModuleDemoSubModuleB.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/**/*",
+  "dependencies": {
+    "GYDModuleDemoInterface": [
+
+    ]
+  }
+}
